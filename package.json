@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate-one",
+  "version": "1.0.0",
+  "description": "Boilerplate version one",
+  "main": "index.php",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/website-company/boilerplate-1.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Michael Giammattei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/website-company/boilerplate-1/issues"
+  },
+  "homepage": "https://github.com/website-company/boilerplate-1#readme"
+}

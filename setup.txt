@@ -1,0 +1,9 @@
+1. run command: npm install bower
+2. run command: bower init
+3. run command: bower install bootstrap-sass --save
+4. run command: npm install grunt --save-dev
+5. npm install grunt-sass --save-dev
+6. npm install grunt-contrib-watch --save-dev
+7. npm install grunt-contrib-copy --save-dev
+8. add angular: npm install angular
+9. bower install --save fontawesome
